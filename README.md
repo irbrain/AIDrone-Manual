@@ -1,3 +1,3 @@
 # AIDrone-Menual
 
-This is AIDrone Menual in English and Korea.
+This is AIDrone Manual in English and Korea.
